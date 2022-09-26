@@ -1,1 +1,2 @@
 # Call-Distributor-In-Call-Center
+Call Distributor in call center is a system that gets incoming calls, assorts them based on preset situations and transfers the decision to the proper agent. A programmed name routing machine that routes incoming calls to skill-primarily based totally agents, groups or menus based on rules like area code of telephone number, time of the day, etc. The call center determines the order in which the calls are to be distributed to the agents. This could be based at the experience of the agent.
